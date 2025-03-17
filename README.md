@@ -56,6 +56,9 @@ netlify deploy
 
 1. **View Exchange Rates**: The homepage displays real-time NGN ↔ GHS rates.  
 2. **Use the Calculator**: Enter an amount to see the live conversion.  
+
+-- > [!NOTE]
+> Admin Dashboard is not yet implemented.
 3. **Admin Dashboard**: If you are the admin, visit `/admin` to see conversion breakdowns.  
 
 ## Future Enhancements
